@@ -1,0 +1,14 @@
+{
+  "name": "multiprocesstool",
+  "version": "1.0.0",
+  "description": "nodejs 多进程函数封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}
